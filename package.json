@@ -1,0 +1,25 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "Learning the Spotify Web API with Node.js and Express.",
+  "homepage": "https://github.com/IdoZacharia/spotify-API#readme",
+  "bugs": {
+    "url": "https://github.com/IdoZacharia/spotify-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdoZacharia/spotify-API.git"
+  },
+  "license": "ISC",
+  "author": "Ido Zacharia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
